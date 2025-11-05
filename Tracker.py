@@ -1,5 +1,5 @@
 # -----------------------------------------------------------
-# Name: Akshit
+# Name: DISHU YAADV
 # Date: 30 october 2025
 # Project Title: Daily Calorie Tracker CLI
 # -----------------------------------------------------------
@@ -73,5 +73,6 @@ else:
     print("Report not saved.")
 
 print("\nThank you for using the Daily Calorie Tracker.")
+
 
 
