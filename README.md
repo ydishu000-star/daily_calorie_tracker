@@ -38,4 +38,4 @@ Example Output:
 Total calories consumed: 295
 
 
-Author: Akshit
+Author: DISHU YADAV
